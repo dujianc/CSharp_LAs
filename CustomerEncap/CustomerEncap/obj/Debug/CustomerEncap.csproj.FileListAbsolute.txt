@@ -1,0 +1,7 @@
+C:\Users\jason\source\repos\CustomerEncap\CustomerEncap\bin\Debug\CustomerEncap.exe.config
+C:\Users\jason\source\repos\CustomerEncap\CustomerEncap\bin\Debug\CustomerEncap.exe
+C:\Users\jason\source\repos\CustomerEncap\CustomerEncap\bin\Debug\CustomerEncap.pdb
+C:\Users\jason\source\repos\CustomerEncap\CustomerEncap\obj\Debug\CustomerEncap.csprojAssemblyReference.cache
+C:\Users\jason\source\repos\CustomerEncap\CustomerEncap\obj\Debug\CustomerEncap.csproj.CoreCompileInputs.cache
+C:\Users\jason\source\repos\CustomerEncap\CustomerEncap\obj\Debug\CustomerEncap.exe
+C:\Users\jason\source\repos\CustomerEncap\CustomerEncap\obj\Debug\CustomerEncap.pdb

@@ -1,0 +1,7 @@
+C:\Users\jason\source\repos\EmployeeLA\EmployeeLA\bin\Debug\EmployeeLA.exe.config
+C:\Users\jason\source\repos\EmployeeLA\EmployeeLA\bin\Debug\EmployeeLA.exe
+C:\Users\jason\source\repos\EmployeeLA\EmployeeLA\bin\Debug\EmployeeLA.pdb
+C:\Users\jason\source\repos\EmployeeLA\EmployeeLA\obj\Debug\EmployeeLA.csprojAssemblyReference.cache
+C:\Users\jason\source\repos\EmployeeLA\EmployeeLA\obj\Debug\EmployeeLA.csproj.CoreCompileInputs.cache
+C:\Users\jason\source\repos\EmployeeLA\EmployeeLA\obj\Debug\EmployeeLA.exe
+C:\Users\jason\source\repos\EmployeeLA\EmployeeLA\obj\Debug\EmployeeLA.pdb

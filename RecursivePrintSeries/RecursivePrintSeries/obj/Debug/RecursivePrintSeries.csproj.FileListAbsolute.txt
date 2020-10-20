@@ -1,0 +1,7 @@
+C:\Users\jason\source\repos\RecursivePrintSeries\RecursivePrintSeries\bin\Debug\RecursivePrintSeries.exe.config
+C:\Users\jason\source\repos\RecursivePrintSeries\RecursivePrintSeries\bin\Debug\RecursivePrintSeries.exe
+C:\Users\jason\source\repos\RecursivePrintSeries\RecursivePrintSeries\bin\Debug\RecursivePrintSeries.pdb
+C:\Users\jason\source\repos\RecursivePrintSeries\RecursivePrintSeries\obj\Debug\RecursivePrintSeries.csprojAssemblyReference.cache
+C:\Users\jason\source\repos\RecursivePrintSeries\RecursivePrintSeries\obj\Debug\RecursivePrintSeries.csproj.CoreCompileInputs.cache
+C:\Users\jason\source\repos\RecursivePrintSeries\RecursivePrintSeries\obj\Debug\RecursivePrintSeries.exe
+C:\Users\jason\source\repos\RecursivePrintSeries\RecursivePrintSeries\obj\Debug\RecursivePrintSeries.pdb

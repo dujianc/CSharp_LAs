@@ -1,0 +1,7 @@
+C:\Users\jason\source\repos\sumSeries\sumSeries\bin\Debug\sumSeries.exe.config
+C:\Users\jason\source\repos\sumSeries\sumSeries\bin\Debug\sumSeries.exe
+C:\Users\jason\source\repos\sumSeries\sumSeries\bin\Debug\sumSeries.pdb
+C:\Users\jason\source\repos\sumSeries\sumSeries\obj\Debug\sumSeries.csprojAssemblyReference.cache
+C:\Users\jason\source\repos\sumSeries\sumSeries\obj\Debug\sumSeries.csproj.CoreCompileInputs.cache
+C:\Users\jason\source\repos\sumSeries\sumSeries\obj\Debug\sumSeries.exe
+C:\Users\jason\source\repos\sumSeries\sumSeries\obj\Debug\sumSeries.pdb

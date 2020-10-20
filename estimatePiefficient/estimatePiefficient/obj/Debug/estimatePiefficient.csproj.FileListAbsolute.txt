@@ -1,0 +1,7 @@
+C:\Users\jason\source\repos\estimatePiefficient\estimatePiefficient\bin\Debug\estimatePiefficient.exe.config
+C:\Users\jason\source\repos\estimatePiefficient\estimatePiefficient\bin\Debug\estimatePiefficient.exe
+C:\Users\jason\source\repos\estimatePiefficient\estimatePiefficient\bin\Debug\estimatePiefficient.pdb
+C:\Users\jason\source\repos\estimatePiefficient\estimatePiefficient\obj\Debug\estimatePiefficient.csprojAssemblyReference.cache
+C:\Users\jason\source\repos\estimatePiefficient\estimatePiefficient\obj\Debug\estimatePiefficient.csproj.CoreCompileInputs.cache
+C:\Users\jason\source\repos\estimatePiefficient\estimatePiefficient\obj\Debug\estimatePiefficient.exe
+C:\Users\jason\source\repos\estimatePiefficient\estimatePiefficient\obj\Debug\estimatePiefficient.pdb

@@ -1,0 +1,7 @@
+C:\Users\jason\source\repos\letterVowels\letterVowels\bin\Debug\letterVowels.exe.config
+C:\Users\jason\source\repos\letterVowels\letterVowels\bin\Debug\letterVowels.exe
+C:\Users\jason\source\repos\letterVowels\letterVowels\bin\Debug\letterVowels.pdb
+C:\Users\jason\source\repos\letterVowels\letterVowels\obj\Debug\letterVowels.csprojAssemblyReference.cache
+C:\Users\jason\source\repos\letterVowels\letterVowels\obj\Debug\letterVowels.csproj.CoreCompileInputs.cache
+C:\Users\jason\source\repos\letterVowels\letterVowels\obj\Debug\letterVowels.exe
+C:\Users\jason\source\repos\letterVowels\letterVowels\obj\Debug\letterVowels.pdb

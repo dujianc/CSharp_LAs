@@ -1,0 +1,7 @@
+C:\Users\jason\source\repos\estimatingPi\estimatingPi\obj\Debug\estimatingPi.csproj.CoreCompileInputs.cache
+C:\Users\jason\source\repos\estimatingPi\estimatingPi\bin\Debug\estimatingPi.exe.config
+C:\Users\jason\source\repos\estimatingPi\estimatingPi\bin\Debug\estimatingPi.exe
+C:\Users\jason\source\repos\estimatingPi\estimatingPi\bin\Debug\estimatingPi.pdb
+C:\Users\jason\source\repos\estimatingPi\estimatingPi\obj\Debug\estimatingPi.csprojAssemblyReference.cache
+C:\Users\jason\source\repos\estimatingPi\estimatingPi\obj\Debug\estimatingPi.exe
+C:\Users\jason\source\repos\estimatingPi\estimatingPi\obj\Debug\estimatingPi.pdb

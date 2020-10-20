@@ -1,0 +1,7 @@
+C:\Users\jason\source\repos\GenRandomPrimes\GenRandomPrimes\bin\Debug\GenRandomPrimes.exe.config
+C:\Users\jason\source\repos\GenRandomPrimes\GenRandomPrimes\bin\Debug\GenRandomPrimes.exe
+C:\Users\jason\source\repos\GenRandomPrimes\GenRandomPrimes\bin\Debug\GenRandomPrimes.pdb
+C:\Users\jason\source\repos\GenRandomPrimes\GenRandomPrimes\obj\Debug\GenRandomPrimes.csprojAssemblyReference.cache
+C:\Users\jason\source\repos\GenRandomPrimes\GenRandomPrimes\obj\Debug\GenRandomPrimes.csproj.CoreCompileInputs.cache
+C:\Users\jason\source\repos\GenRandomPrimes\GenRandomPrimes\obj\Debug\GenRandomPrimes.exe
+C:\Users\jason\source\repos\GenRandomPrimes\GenRandomPrimes\obj\Debug\GenRandomPrimes.pdb

@@ -1,0 +1,7 @@
+C:\Users\jason\source\repos\UpdatedSortedDataSet\UpdatedSortedDataSet\bin\Debug\UpdatedSortedDataSet.exe.config
+C:\Users\jason\source\repos\UpdatedSortedDataSet\UpdatedSortedDataSet\bin\Debug\UpdatedSortedDataSet.exe
+C:\Users\jason\source\repos\UpdatedSortedDataSet\UpdatedSortedDataSet\bin\Debug\UpdatedSortedDataSet.pdb
+C:\Users\jason\source\repos\UpdatedSortedDataSet\UpdatedSortedDataSet\obj\Debug\UpdatedSortedDataSet.csprojAssemblyReference.cache
+C:\Users\jason\source\repos\UpdatedSortedDataSet\UpdatedSortedDataSet\obj\Debug\UpdatedSortedDataSet.csproj.CoreCompileInputs.cache
+C:\Users\jason\source\repos\UpdatedSortedDataSet\UpdatedSortedDataSet\obj\Debug\UpdatedSortedDataSet.exe
+C:\Users\jason\source\repos\UpdatedSortedDataSet\UpdatedSortedDataSet\obj\Debug\UpdatedSortedDataSet.pdb

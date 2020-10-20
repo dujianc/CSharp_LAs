@@ -1,0 +1,7 @@
+C:\Users\jason\source\repos\waterState\waterState\bin\Debug\waterState.exe.config
+C:\Users\jason\source\repos\waterState\waterState\bin\Debug\waterState.exe
+C:\Users\jason\source\repos\waterState\waterState\bin\Debug\waterState.pdb
+C:\Users\jason\source\repos\waterState\waterState\obj\Debug\waterState.csprojAssemblyReference.cache
+C:\Users\jason\source\repos\waterState\waterState\obj\Debug\waterState.csproj.CoreCompileInputs.cache
+C:\Users\jason\source\repos\waterState\waterState\obj\Debug\waterState.exe
+C:\Users\jason\source\repos\waterState\waterState\obj\Debug\waterState.pdb

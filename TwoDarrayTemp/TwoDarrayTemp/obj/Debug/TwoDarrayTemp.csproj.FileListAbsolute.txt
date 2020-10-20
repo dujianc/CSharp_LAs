@@ -1,0 +1,7 @@
+C:\Users\jason\source\repos\TwoDarrayTemp\TwoDarrayTemp\bin\Debug\TwoDarrayTemp.exe.config
+C:\Users\jason\source\repos\TwoDarrayTemp\TwoDarrayTemp\bin\Debug\TwoDarrayTemp.exe
+C:\Users\jason\source\repos\TwoDarrayTemp\TwoDarrayTemp\bin\Debug\TwoDarrayTemp.pdb
+C:\Users\jason\source\repos\TwoDarrayTemp\TwoDarrayTemp\obj\Debug\TwoDarrayTemp.csprojAssemblyReference.cache
+C:\Users\jason\source\repos\TwoDarrayTemp\TwoDarrayTemp\obj\Debug\TwoDarrayTemp.csproj.CoreCompileInputs.cache
+C:\Users\jason\source\repos\TwoDarrayTemp\TwoDarrayTemp\obj\Debug\TwoDarrayTemp.exe
+C:\Users\jason\source\repos\TwoDarrayTemp\TwoDarrayTemp\obj\Debug\TwoDarrayTemp.pdb

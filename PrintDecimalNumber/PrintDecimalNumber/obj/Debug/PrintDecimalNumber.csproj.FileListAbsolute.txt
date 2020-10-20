@@ -1,0 +1,7 @@
+C:\Users\jason\source\repos\PrintDecimalNumber\PrintDecimalNumber\bin\Debug\PrintDecimalNumber.exe.config
+C:\Users\jason\source\repos\PrintDecimalNumber\PrintDecimalNumber\bin\Debug\PrintDecimalNumber.exe
+C:\Users\jason\source\repos\PrintDecimalNumber\PrintDecimalNumber\bin\Debug\PrintDecimalNumber.pdb
+C:\Users\jason\source\repos\PrintDecimalNumber\PrintDecimalNumber\obj\Debug\PrintDecimalNumber.csprojAssemblyReference.cache
+C:\Users\jason\source\repos\PrintDecimalNumber\PrintDecimalNumber\obj\Debug\PrintDecimalNumber.csproj.CoreCompileInputs.cache
+C:\Users\jason\source\repos\PrintDecimalNumber\PrintDecimalNumber\obj\Debug\PrintDecimalNumber.exe
+C:\Users\jason\source\repos\PrintDecimalNumber\PrintDecimalNumber\obj\Debug\PrintDecimalNumber.pdb

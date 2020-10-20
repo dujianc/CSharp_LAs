@@ -1,0 +1,7 @@
+C:\Users\jason\source\repos\inclassPrime3\inclassPrime3\bin\Debug\inclassPrime3.exe.config
+C:\Users\jason\source\repos\inclassPrime3\inclassPrime3\bin\Debug\inclassPrime3.exe
+C:\Users\jason\source\repos\inclassPrime3\inclassPrime3\bin\Debug\inclassPrime3.pdb
+C:\Users\jason\source\repos\inclassPrime3\inclassPrime3\obj\Debug\inclassPrime3.csprojAssemblyReference.cache
+C:\Users\jason\source\repos\inclassPrime3\inclassPrime3\obj\Debug\inclassPrime3.csproj.CoreCompileInputs.cache
+C:\Users\jason\source\repos\inclassPrime3\inclassPrime3\obj\Debug\inclassPrime3.exe
+C:\Users\jason\source\repos\inclassPrime3\inclassPrime3\obj\Debug\inclassPrime3.pdb

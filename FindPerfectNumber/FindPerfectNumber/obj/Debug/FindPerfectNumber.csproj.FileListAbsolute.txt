@@ -1,0 +1,7 @@
+C:\Users\jason\source\repos\FindPerfectNumber\FindPerfectNumber\bin\Debug\FindPerfectNumber.exe.config
+C:\Users\jason\source\repos\FindPerfectNumber\FindPerfectNumber\bin\Debug\FindPerfectNumber.exe
+C:\Users\jason\source\repos\FindPerfectNumber\FindPerfectNumber\bin\Debug\FindPerfectNumber.pdb
+C:\Users\jason\source\repos\FindPerfectNumber\FindPerfectNumber\obj\Debug\FindPerfectNumber.csprojAssemblyReference.cache
+C:\Users\jason\source\repos\FindPerfectNumber\FindPerfectNumber\obj\Debug\FindPerfectNumber.csproj.CoreCompileInputs.cache
+C:\Users\jason\source\repos\FindPerfectNumber\FindPerfectNumber\obj\Debug\FindPerfectNumber.exe
+C:\Users\jason\source\repos\FindPerfectNumber\FindPerfectNumber\obj\Debug\FindPerfectNumber.pdb

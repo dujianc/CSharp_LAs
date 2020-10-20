@@ -1,0 +1,7 @@
+C:\Users\jason\source\repos\ChangePin\ChangePin\bin\Debug\ChangePin.exe.config
+C:\Users\jason\source\repos\ChangePin\ChangePin\bin\Debug\ChangePin.exe
+C:\Users\jason\source\repos\ChangePin\ChangePin\bin\Debug\ChangePin.pdb
+C:\Users\jason\source\repos\ChangePin\ChangePin\obj\Debug\ChangePin.csprojAssemblyReference.cache
+C:\Users\jason\source\repos\ChangePin\ChangePin\obj\Debug\ChangePin.csproj.CoreCompileInputs.cache
+C:\Users\jason\source\repos\ChangePin\ChangePin\obj\Debug\ChangePin.exe
+C:\Users\jason\source\repos\ChangePin\ChangePin\obj\Debug\ChangePin.pdb

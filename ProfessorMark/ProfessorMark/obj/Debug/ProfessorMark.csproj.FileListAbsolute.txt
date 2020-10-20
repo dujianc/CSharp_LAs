@@ -1,0 +1,7 @@
+C:\Users\jason\source\repos\ProfessorMark\ProfessorMark\bin\Debug\ProfessorMark.exe.config
+C:\Users\jason\source\repos\ProfessorMark\ProfessorMark\bin\Debug\ProfessorMark.exe
+C:\Users\jason\source\repos\ProfessorMark\ProfessorMark\bin\Debug\ProfessorMark.pdb
+C:\Users\jason\source\repos\ProfessorMark\ProfessorMark\obj\Debug\ProfessorMark.csprojAssemblyReference.cache
+C:\Users\jason\source\repos\ProfessorMark\ProfessorMark\obj\Debug\ProfessorMark.csproj.CoreCompileInputs.cache
+C:\Users\jason\source\repos\ProfessorMark\ProfessorMark\obj\Debug\ProfessorMark.exe
+C:\Users\jason\source\repos\ProfessorMark\ProfessorMark\obj\Debug\ProfessorMark.pdb

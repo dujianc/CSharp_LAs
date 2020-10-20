@@ -1,0 +1,7 @@
+C:\Users\jason\source\repos\InclassArrayPractice\InclassArrayPractice\bin\Debug\InclassArrayPractice.exe.config
+C:\Users\jason\source\repos\InclassArrayPractice\InclassArrayPractice\bin\Debug\InclassArrayPractice.exe
+C:\Users\jason\source\repos\InclassArrayPractice\InclassArrayPractice\bin\Debug\InclassArrayPractice.pdb
+C:\Users\jason\source\repos\InclassArrayPractice\InclassArrayPractice\obj\Debug\InclassArrayPractice.csprojAssemblyReference.cache
+C:\Users\jason\source\repos\InclassArrayPractice\InclassArrayPractice\obj\Debug\InclassArrayPractice.csproj.CoreCompileInputs.cache
+C:\Users\jason\source\repos\InclassArrayPractice\InclassArrayPractice\obj\Debug\InclassArrayPractice.exe
+C:\Users\jason\source\repos\InclassArrayPractice\InclassArrayPractice\obj\Debug\InclassArrayPractice.pdb

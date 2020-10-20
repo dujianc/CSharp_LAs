@@ -1,0 +1,7 @@
+C:\Users\jason\source\repos\sumNumbers\sumNumbers\bin\Debug\sumNumbers.exe.config
+C:\Users\jason\source\repos\sumNumbers\sumNumbers\bin\Debug\sumNumbers.exe
+C:\Users\jason\source\repos\sumNumbers\sumNumbers\bin\Debug\sumNumbers.pdb
+C:\Users\jason\source\repos\sumNumbers\sumNumbers\obj\Debug\sumNumbers.csprojAssemblyReference.cache
+C:\Users\jason\source\repos\sumNumbers\sumNumbers\obj\Debug\sumNumbers.csproj.CoreCompileInputs.cache
+C:\Users\jason\source\repos\sumNumbers\sumNumbers\obj\Debug\sumNumbers.exe
+C:\Users\jason\source\repos\sumNumbers\sumNumbers\obj\Debug\sumNumbers.pdb

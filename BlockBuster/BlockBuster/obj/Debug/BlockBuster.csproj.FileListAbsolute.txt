@@ -1,0 +1,7 @@
+C:\Users\jason\source\repos\BlockBuster\BlockBuster\bin\Debug\BlockBuster.exe.config
+C:\Users\jason\source\repos\BlockBuster\BlockBuster\bin\Debug\BlockBuster.exe
+C:\Users\jason\source\repos\BlockBuster\BlockBuster\bin\Debug\BlockBuster.pdb
+C:\Users\jason\source\repos\BlockBuster\BlockBuster\obj\Debug\BlockBuster.csprojAssemblyReference.cache
+C:\Users\jason\source\repos\BlockBuster\BlockBuster\obj\Debug\BlockBuster.csproj.CoreCompileInputs.cache
+C:\Users\jason\source\repos\BlockBuster\BlockBuster\obj\Debug\BlockBuster.exe
+C:\Users\jason\source\repos\BlockBuster\BlockBuster\obj\Debug\BlockBuster.pdb

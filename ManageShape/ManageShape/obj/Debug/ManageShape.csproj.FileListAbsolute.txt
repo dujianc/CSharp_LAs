@@ -1,0 +1,7 @@
+C:\Users\jason\source\repos\ManageShape\ManageShape\bin\Debug\ManageShape.exe.config
+C:\Users\jason\source\repos\ManageShape\ManageShape\bin\Debug\ManageShape.exe
+C:\Users\jason\source\repos\ManageShape\ManageShape\bin\Debug\ManageShape.pdb
+C:\Users\jason\source\repos\ManageShape\ManageShape\obj\Debug\ManageShape.csprojAssemblyReference.cache
+C:\Users\jason\source\repos\ManageShape\ManageShape\obj\Debug\ManageShape.csproj.CoreCompileInputs.cache
+C:\Users\jason\source\repos\ManageShape\ManageShape\obj\Debug\ManageShape.exe
+C:\Users\jason\source\repos\ManageShape\ManageShape\obj\Debug\ManageShape.pdb

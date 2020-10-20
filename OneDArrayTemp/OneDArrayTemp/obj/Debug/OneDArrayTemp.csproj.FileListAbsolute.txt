@@ -1,0 +1,7 @@
+C:\Users\jason\source\repos\OneDArrayTemp\OneDArrayTemp\bin\Debug\OneDArrayTemp.exe.config
+C:\Users\jason\source\repos\OneDArrayTemp\OneDArrayTemp\bin\Debug\OneDArrayTemp.exe
+C:\Users\jason\source\repos\OneDArrayTemp\OneDArrayTemp\bin\Debug\OneDArrayTemp.pdb
+C:\Users\jason\source\repos\OneDArrayTemp\OneDArrayTemp\obj\Debug\OneDArrayTemp.csprojAssemblyReference.cache
+C:\Users\jason\source\repos\OneDArrayTemp\OneDArrayTemp\obj\Debug\OneDArrayTemp.csproj.CoreCompileInputs.cache
+C:\Users\jason\source\repos\OneDArrayTemp\OneDArrayTemp\obj\Debug\OneDArrayTemp.exe
+C:\Users\jason\source\repos\OneDArrayTemp\OneDArrayTemp\obj\Debug\OneDArrayTemp.pdb

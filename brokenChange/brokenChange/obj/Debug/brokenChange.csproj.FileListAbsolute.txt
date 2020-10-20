@@ -1,0 +1,7 @@
+C:\Users\jason\source\repos\brokenChange\brokenChange\obj\Debug\brokenChange.csprojAssemblyReference.cache
+C:\Users\jason\source\repos\brokenChange\brokenChange\obj\Debug\brokenChange.csproj.CoreCompileInputs.cache
+C:\Users\jason\source\repos\brokenChange\brokenChange\bin\Debug\brokenChange.exe.config
+C:\Users\jason\source\repos\brokenChange\brokenChange\bin\Debug\brokenChange.exe
+C:\Users\jason\source\repos\brokenChange\brokenChange\bin\Debug\brokenChange.pdb
+C:\Users\jason\source\repos\brokenChange\brokenChange\obj\Debug\brokenChange.exe
+C:\Users\jason\source\repos\brokenChange\brokenChange\obj\Debug\brokenChange.pdb

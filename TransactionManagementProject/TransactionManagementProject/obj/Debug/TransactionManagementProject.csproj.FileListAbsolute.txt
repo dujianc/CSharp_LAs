@@ -1,0 +1,7 @@
+C:\Users\jason\source\repos\TransactionManagementProject\TransactionManagementProject\bin\Debug\TransactionManagementProject.exe.config
+C:\Users\jason\source\repos\TransactionManagementProject\TransactionManagementProject\bin\Debug\TransactionManagementProject.exe
+C:\Users\jason\source\repos\TransactionManagementProject\TransactionManagementProject\bin\Debug\TransactionManagementProject.pdb
+C:\Users\jason\source\repos\TransactionManagementProject\TransactionManagementProject\obj\Debug\TransactionManagementProject.csprojAssemblyReference.cache
+C:\Users\jason\source\repos\TransactionManagementProject\TransactionManagementProject\obj\Debug\TransactionManagementProject.csproj.CoreCompileInputs.cache
+C:\Users\jason\source\repos\TransactionManagementProject\TransactionManagementProject\obj\Debug\TransactionManagementProject.exe
+C:\Users\jason\source\repos\TransactionManagementProject\TransactionManagementProject\obj\Debug\TransactionManagementProject.pdb

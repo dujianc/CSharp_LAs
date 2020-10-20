@@ -1,0 +1,7 @@
+C:\Users\jason\source\repos\SortedDataset\SortedDataset\bin\Debug\SortedDataset.exe.config
+C:\Users\jason\source\repos\SortedDataset\SortedDataset\bin\Debug\SortedDataset.exe
+C:\Users\jason\source\repos\SortedDataset\SortedDataset\bin\Debug\SortedDataset.pdb
+C:\Users\jason\source\repos\SortedDataset\SortedDataset\obj\Debug\SortedDataset.csprojAssemblyReference.cache
+C:\Users\jason\source\repos\SortedDataset\SortedDataset\obj\Debug\SortedDataset.csproj.CoreCompileInputs.cache
+C:\Users\jason\source\repos\SortedDataset\SortedDataset\obj\Debug\SortedDataset.exe
+C:\Users\jason\source\repos\SortedDataset\SortedDataset\obj\Debug\SortedDataset.pdb

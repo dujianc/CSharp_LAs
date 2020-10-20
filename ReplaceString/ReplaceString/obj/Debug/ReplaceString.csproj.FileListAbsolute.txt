@@ -1,0 +1,7 @@
+C:\Users\jason\source\repos\ReplaceString\ReplaceString\bin\Debug\ReplaceString.exe.config
+C:\Users\jason\source\repos\ReplaceString\ReplaceString\bin\Debug\ReplaceString.exe
+C:\Users\jason\source\repos\ReplaceString\ReplaceString\bin\Debug\ReplaceString.pdb
+C:\Users\jason\source\repos\ReplaceString\ReplaceString\obj\Debug\ReplaceString.csprojAssemblyReference.cache
+C:\Users\jason\source\repos\ReplaceString\ReplaceString\obj\Debug\ReplaceString.csproj.CoreCompileInputs.cache
+C:\Users\jason\source\repos\ReplaceString\ReplaceString\obj\Debug\ReplaceString.exe
+C:\Users\jason\source\repos\ReplaceString\ReplaceString\obj\Debug\ReplaceString.pdb

@@ -1,0 +1,7 @@
+C:\Users\jason\source\repos\Meter_To_Foot\Meter_To_Foot\obj\Debug\Meter_To_Foot.csprojAssemblyReference.cache
+C:\Users\jason\source\repos\Meter_To_Foot\Meter_To_Foot\obj\Debug\Meter_To_Foot.csproj.CoreCompileInputs.cache
+C:\Users\jason\source\repos\Meter_To_Foot\Meter_To_Foot\bin\Debug\Meter_To_Foot.exe.config
+C:\Users\jason\source\repos\Meter_To_Foot\Meter_To_Foot\bin\Debug\Meter_To_Foot.exe
+C:\Users\jason\source\repos\Meter_To_Foot\Meter_To_Foot\bin\Debug\Meter_To_Foot.pdb
+C:\Users\jason\source\repos\Meter_To_Foot\Meter_To_Foot\obj\Debug\Meter_To_Foot.exe
+C:\Users\jason\source\repos\Meter_To_Foot\Meter_To_Foot\obj\Debug\Meter_To_Foot.pdb

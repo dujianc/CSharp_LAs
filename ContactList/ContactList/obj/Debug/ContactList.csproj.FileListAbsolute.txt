@@ -1,0 +1,7 @@
+C:\Users\jason\source\repos\ContactList\ContactList\bin\Debug\ContactList.exe.config
+C:\Users\jason\source\repos\ContactList\ContactList\bin\Debug\ContactList.exe
+C:\Users\jason\source\repos\ContactList\ContactList\bin\Debug\ContactList.pdb
+C:\Users\jason\source\repos\ContactList\ContactList\obj\Debug\ContactList.csprojAssemblyReference.cache
+C:\Users\jason\source\repos\ContactList\ContactList\obj\Debug\ContactList.csproj.CoreCompileInputs.cache
+C:\Users\jason\source\repos\ContactList\ContactList\obj\Debug\ContactList.exe
+C:\Users\jason\source\repos\ContactList\ContactList\obj\Debug\ContactList.pdb

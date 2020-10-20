@@ -1,0 +1,7 @@
+C:\Users\jason\source\repos\JaggedArrayDisplay\JaggedArrayDisplay\bin\Debug\JaggedArrayDisplay.exe.config
+C:\Users\jason\source\repos\JaggedArrayDisplay\JaggedArrayDisplay\bin\Debug\JaggedArrayDisplay.exe
+C:\Users\jason\source\repos\JaggedArrayDisplay\JaggedArrayDisplay\bin\Debug\JaggedArrayDisplay.pdb
+C:\Users\jason\source\repos\JaggedArrayDisplay\JaggedArrayDisplay\obj\Debug\JaggedArrayDisplay.csprojAssemblyReference.cache
+C:\Users\jason\source\repos\JaggedArrayDisplay\JaggedArrayDisplay\obj\Debug\JaggedArrayDisplay.csproj.CoreCompileInputs.cache
+C:\Users\jason\source\repos\JaggedArrayDisplay\JaggedArrayDisplay\obj\Debug\JaggedArrayDisplay.exe
+C:\Users\jason\source\repos\JaggedArrayDisplay\JaggedArrayDisplay\obj\Debug\JaggedArrayDisplay.pdb

@@ -1,0 +1,7 @@
+C:\Users\jason\source\repos\loopPattern1\loopPattern1\bin\Debug\loopPattern1.exe.config
+C:\Users\jason\source\repos\loopPattern1\loopPattern1\bin\Debug\loopPattern1.exe
+C:\Users\jason\source\repos\loopPattern1\loopPattern1\bin\Debug\loopPattern1.pdb
+C:\Users\jason\source\repos\loopPattern1\loopPattern1\obj\Debug\loopPattern1.csprojAssemblyReference.cache
+C:\Users\jason\source\repos\loopPattern1\loopPattern1\obj\Debug\loopPattern1.csproj.CoreCompileInputs.cache
+C:\Users\jason\source\repos\loopPattern1\loopPattern1\obj\Debug\loopPattern1.exe
+C:\Users\jason\source\repos\loopPattern1\loopPattern1\obj\Debug\loopPattern1.pdb

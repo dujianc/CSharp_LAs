@@ -1,0 +1,7 @@
+C:\Users\jason\source\repos\prtPyramidNum\prtPyramidNum\bin\Debug\prtPyramidNum.exe.config
+C:\Users\jason\source\repos\prtPyramidNum\prtPyramidNum\bin\Debug\prtPyramidNum.exe
+C:\Users\jason\source\repos\prtPyramidNum\prtPyramidNum\bin\Debug\prtPyramidNum.pdb
+C:\Users\jason\source\repos\prtPyramidNum\prtPyramidNum\obj\Debug\prtPyramidNum.csproj.CoreCompileInputs.cache
+C:\Users\jason\source\repos\prtPyramidNum\prtPyramidNum\obj\Debug\prtPyramidNum.exe
+C:\Users\jason\source\repos\prtPyramidNum\prtPyramidNum\obj\Debug\prtPyramidNum.pdb
+C:\Users\jason\source\repos\prtPyramidNum\prtPyramidNum\obj\Debug\prtPyramidNum.csprojAssemblyReference.cache

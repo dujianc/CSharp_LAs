@@ -1,0 +1,7 @@
+C:\Users\jason\source\repos\MultipleFiles\MultipleFiles\bin\Debug\MultipleFiles.exe.config
+C:\Users\jason\source\repos\MultipleFiles\MultipleFiles\bin\Debug\MultipleFiles.exe
+C:\Users\jason\source\repos\MultipleFiles\MultipleFiles\bin\Debug\MultipleFiles.pdb
+C:\Users\jason\source\repos\MultipleFiles\MultipleFiles\obj\Debug\MultipleFiles.csprojAssemblyReference.cache
+C:\Users\jason\source\repos\MultipleFiles\MultipleFiles\obj\Debug\MultipleFiles.csproj.CoreCompileInputs.cache
+C:\Users\jason\source\repos\MultipleFiles\MultipleFiles\obj\Debug\MultipleFiles.exe
+C:\Users\jason\source\repos\MultipleFiles\MultipleFiles\obj\Debug\MultipleFiles.pdb

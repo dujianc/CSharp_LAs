@@ -1,0 +1,7 @@
+C:\Users\jason\source\repos\ListExample1\ListExample1\bin\Debug\ListExample1.exe.config
+C:\Users\jason\source\repos\ListExample1\ListExample1\bin\Debug\ListExample1.exe
+C:\Users\jason\source\repos\ListExample1\ListExample1\bin\Debug\ListExample1.pdb
+C:\Users\jason\source\repos\ListExample1\ListExample1\obj\Debug\ListExample1.csprojAssemblyReference.cache
+C:\Users\jason\source\repos\ListExample1\ListExample1\obj\Debug\ListExample1.csproj.CoreCompileInputs.cache
+C:\Users\jason\source\repos\ListExample1\ListExample1\obj\Debug\ListExample1.exe
+C:\Users\jason\source\repos\ListExample1\ListExample1\obj\Debug\ListExample1.pdb

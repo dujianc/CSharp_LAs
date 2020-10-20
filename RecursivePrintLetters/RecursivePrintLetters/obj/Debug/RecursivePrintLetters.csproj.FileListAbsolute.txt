@@ -1,0 +1,7 @@
+C:\Users\jason\source\repos\RecursivePrintLetters\RecursivePrintLetters\bin\Debug\RecursivePrintLetters.exe.config
+C:\Users\jason\source\repos\RecursivePrintLetters\RecursivePrintLetters\bin\Debug\RecursivePrintLetters.exe
+C:\Users\jason\source\repos\RecursivePrintLetters\RecursivePrintLetters\bin\Debug\RecursivePrintLetters.pdb
+C:\Users\jason\source\repos\RecursivePrintLetters\RecursivePrintLetters\obj\Debug\RecursivePrintLetters.csprojAssemblyReference.cache
+C:\Users\jason\source\repos\RecursivePrintLetters\RecursivePrintLetters\obj\Debug\RecursivePrintLetters.csproj.CoreCompileInputs.cache
+C:\Users\jason\source\repos\RecursivePrintLetters\RecursivePrintLetters\obj\Debug\RecursivePrintLetters.exe
+C:\Users\jason\source\repos\RecursivePrintLetters\RecursivePrintLetters\obj\Debug\RecursivePrintLetters.pdb

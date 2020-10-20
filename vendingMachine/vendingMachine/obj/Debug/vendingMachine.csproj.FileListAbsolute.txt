@@ -1,0 +1,7 @@
+C:\Users\jason\source\repos\vendingMachine\vendingMachine\bin\Debug\vendingMachine.exe.config
+C:\Users\jason\source\repos\vendingMachine\vendingMachine\bin\Debug\vendingMachine.exe
+C:\Users\jason\source\repos\vendingMachine\vendingMachine\bin\Debug\vendingMachine.pdb
+C:\Users\jason\source\repos\vendingMachine\vendingMachine\obj\Debug\vendingMachine.csprojAssemblyReference.cache
+C:\Users\jason\source\repos\vendingMachine\vendingMachine\obj\Debug\vendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\jason\source\repos\vendingMachine\vendingMachine\obj\Debug\vendingMachine.exe
+C:\Users\jason\source\repos\vendingMachine\vendingMachine\obj\Debug\vendingMachine.pdb

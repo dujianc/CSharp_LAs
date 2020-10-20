@@ -1,0 +1,7 @@
+C:\Users\jason\source\repos\printingPyramids\printingPyramids\bin\Debug\printingPyramids.exe.config
+C:\Users\jason\source\repos\printingPyramids\printingPyramids\bin\Debug\printingPyramids.exe
+C:\Users\jason\source\repos\printingPyramids\printingPyramids\bin\Debug\printingPyramids.pdb
+C:\Users\jason\source\repos\printingPyramids\printingPyramids\obj\Debug\printingPyramids.csprojAssemblyReference.cache
+C:\Users\jason\source\repos\printingPyramids\printingPyramids\obj\Debug\printingPyramids.csproj.CoreCompileInputs.cache
+C:\Users\jason\source\repos\printingPyramids\printingPyramids\obj\Debug\printingPyramids.exe
+C:\Users\jason\source\repos\printingPyramids\printingPyramids\obj\Debug\printingPyramids.pdb

@@ -1,0 +1,7 @@
+C:\Users\jason\source\repos\arrayExamples\arrayExamples\bin\Debug\arrayExamples.exe.config
+C:\Users\jason\source\repos\arrayExamples\arrayExamples\bin\Debug\arrayExamples.exe
+C:\Users\jason\source\repos\arrayExamples\arrayExamples\bin\Debug\arrayExamples.pdb
+C:\Users\jason\source\repos\arrayExamples\arrayExamples\obj\Debug\arrayExamples.csprojAssemblyReference.cache
+C:\Users\jason\source\repos\arrayExamples\arrayExamples\obj\Debug\arrayExamples.csproj.CoreCompileInputs.cache
+C:\Users\jason\source\repos\arrayExamples\arrayExamples\obj\Debug\arrayExamples.exe
+C:\Users\jason\source\repos\arrayExamples\arrayExamples\obj\Debug\arrayExamples.pdb

@@ -1,0 +1,7 @@
+C:\Users\jason\source\repos\AnimalActivity\AnimalActivity\bin\Debug\AnimalActivity.exe.config
+C:\Users\jason\source\repos\AnimalActivity\AnimalActivity\bin\Debug\AnimalActivity.exe
+C:\Users\jason\source\repos\AnimalActivity\AnimalActivity\bin\Debug\AnimalActivity.pdb
+C:\Users\jason\source\repos\AnimalActivity\AnimalActivity\obj\Debug\AnimalActivity.csprojAssemblyReference.cache
+C:\Users\jason\source\repos\AnimalActivity\AnimalActivity\obj\Debug\AnimalActivity.csproj.CoreCompileInputs.cache
+C:\Users\jason\source\repos\AnimalActivity\AnimalActivity\obj\Debug\AnimalActivity.exe
+C:\Users\jason\source\repos\AnimalActivity\AnimalActivity\obj\Debug\AnimalActivity.pdb

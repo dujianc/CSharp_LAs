@@ -1,0 +1,7 @@
+C:\Users\jason\source\repos\RecursivePrintSum\RecursivePrintSum\obj\Debug\RecursivePrintSum.csprojAssemblyReference.cache
+C:\Users\jason\source\repos\RecursivePrintSum\RecursivePrintSum\obj\Debug\RecursivePrintSum.csproj.CoreCompileInputs.cache
+C:\Users\jason\source\repos\RecursivePrintSum\RecursivePrintSum\bin\Debug\RecursivePrintSum.exe.config
+C:\Users\jason\source\repos\RecursivePrintSum\RecursivePrintSum\bin\Debug\RecursivePrintSum.exe
+C:\Users\jason\source\repos\RecursivePrintSum\RecursivePrintSum\bin\Debug\RecursivePrintSum.pdb
+C:\Users\jason\source\repos\RecursivePrintSum\RecursivePrintSum\obj\Debug\RecursivePrintSum.exe
+C:\Users\jason\source\repos\RecursivePrintSum\RecursivePrintSum\obj\Debug\RecursivePrintSum.pdb

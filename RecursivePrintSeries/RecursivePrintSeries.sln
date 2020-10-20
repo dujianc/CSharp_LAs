@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursivePrintSeries", "RecursivePrintSeries\RecursivePrintSeries.csproj", "{7A0BD17D-7B4A-411E-A276-358F24D1D620}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A0BD17D-7B4A-411E-A276-358F24D1D620}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A0BD17D-7B4A-411E-A276-358F24D1D620}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A0BD17D-7B4A-411E-A276-358F24D1D620}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A0BD17D-7B4A-411E-A276-358F24D1D620}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66FBB970-69ED-4520-8EAD-7CC8D5BA70BF}
+	EndGlobalSection
+EndGlobal

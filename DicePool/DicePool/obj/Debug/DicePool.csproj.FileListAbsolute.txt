@@ -1,0 +1,7 @@
+C:\Users\jason\source\repos\DicePool\DicePool\bin\Debug\DicePool.exe.config
+C:\Users\jason\source\repos\DicePool\DicePool\bin\Debug\DicePool.exe
+C:\Users\jason\source\repos\DicePool\DicePool\bin\Debug\DicePool.pdb
+C:\Users\jason\source\repos\DicePool\DicePool\obj\Debug\DicePool.csprojAssemblyReference.cache
+C:\Users\jason\source\repos\DicePool\DicePool\obj\Debug\DicePool.csproj.CoreCompileInputs.cache
+C:\Users\jason\source\repos\DicePool\DicePool\obj\Debug\DicePool.exe
+C:\Users\jason\source\repos\DicePool\DicePool\obj\Debug\DicePool.pdb
